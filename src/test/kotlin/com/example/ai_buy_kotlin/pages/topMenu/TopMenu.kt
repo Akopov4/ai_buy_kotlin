@@ -1,9 +1,9 @@
-package pages.topMenu
+package com.example.ai_buy_kotlin.pages.topMenu
 
 
 import org.springframework.context.annotation.Scope
 import org.springframework.stereotype.Component;
-import pages.BasePage
+import com.example.ai_buy_kotlin.pages.BasePage
 import org.openqa.selenium.WebDriver
 @Component
 @Scope("prototype")

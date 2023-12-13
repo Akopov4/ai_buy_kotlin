@@ -1,4 +1,4 @@
-package tests
+package com.example.ai_buy_kotlin.tests
 
 import io.cucumber.java.en.Given
 
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component
 import org.springframework.stereotype.Service
 
 
-import pages.topMenu.TopMenu
+import com.example.ai_buy_kotlin.pages.topMenu.TopMenu
 
 @Service
 class StepDefinitions @Autowired constructor(private val topMenu: TopMenu){

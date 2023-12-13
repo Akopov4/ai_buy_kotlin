@@ -1,4 +1,4 @@
-package pages.topMenu
+package com.example.ai_buy_kotlin.pages.topMenu
 
 class topMenuLocators {
     val TOP_LOGO:String =

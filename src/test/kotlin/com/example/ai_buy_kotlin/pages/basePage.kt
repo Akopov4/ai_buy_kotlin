@@ -1,4 +1,4 @@
-package pages
+package com.example.ai_buy_kotlin.pages
 
 
 import jakarta.annotation.PostConstruct
